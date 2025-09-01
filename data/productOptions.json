@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "PrioritySupportOption"
+            },
+            "SBQQ__Number__c": 10,
+            "SBQQ__ConfiguredSKU__c": "@ProSubscriptionRef",
+            "SBQQ__OptionalSKU__c": "@PrioritySupportRef",
+            "SBQQ__Selected__c": false,
+            "SBQQ__Quantity__c": 1,
+            "SBQQ__Type__c": "Component"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "AnalyticsPackOption"
+            },
+            "SBQQ__Number__c": 20,
+            "SBQQ__ConfiguredSKU__c": "@ProSubscriptionRef",
+            "SBQQ__OptionalSKU__c": "@AnalyticsPackRef",
+            "SBQQ__Selected__c": false,
+            "SBQQ__Quantity__c": 1,
+            "SBQQ__Type__c": "Component"
+        }
+    ]
+}

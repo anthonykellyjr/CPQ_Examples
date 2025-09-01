@@ -1,0 +1,51 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "ProSubscriptionRef"
+            },
+            "Name": "Pro Subscription",
+            "ProductCode": "PRO-SUB",
+            "IsActive": true,
+            "SBQQ__ConfigurationType__c": "Allowed",
+            "SBQQ__OptionSelectionMethod__c": "Click"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "PrioritySupportRef"
+            },
+            "Name": "Priority Support",
+            "ProductCode": "SUP-PRIO",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "AnalyticsPackRef"
+            },
+            "Name": "Analytics Pack",
+            "ProductCode": "ANL-PACK",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "ImplementationFeeRef"
+            },
+            "Name": "Implementation Fee",
+            "ProductCode": "IMPL-FEE",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "RegionSurchargeRef"
+            },
+            "Name": "Region Surcharge (APAC)",
+            "ProductCode": "REG-FEE",
+            "IsActive": true
+        }
+    ]
+}
