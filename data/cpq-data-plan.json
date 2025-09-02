@@ -1,0 +1,14 @@
+[
+    {
+        "sobject": "Product2",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["data/products.json"]
+    },
+    {
+        "sobject": "SBQQ__ProductOption__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": ["data/productOptions.json"]
+    }
+]

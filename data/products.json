@@ -8,8 +8,8 @@
             "Name": "Pro Subscription",
             "ProductCode": "PRO-SUB",
             "IsActive": true,
-            "SBQQ__ConfigurationType__c": "Allowed",
-            "SBQQ__OptionSelectionMethod__c": "Click"
+            "Description": "Professional subscription bundle with configurable options",
+            "Family": "Software"
         },
         {
             "attributes": {
@@ -18,7 +18,9 @@
             },
             "Name": "Priority Support",
             "ProductCode": "SUP-PRIO",
-            "IsActive": true
+            "IsActive": true,
+            "Description": "24/7 priority support with dedicated account team",
+            "Family": "Support"
         },
         {
             "attributes": {
@@ -27,7 +29,9 @@
             },
             "Name": "Analytics Pack",
             "ProductCode": "ANL-PACK",
-            "IsActive": true
+            "IsActive": true,
+            "Description": "Advanced analytics and reporting suite",
+            "Family": "Add-Ons"
         },
         {
             "attributes": {
@@ -36,7 +40,9 @@
             },
             "Name": "Implementation Fee",
             "ProductCode": "IMPL-FEE",
-            "IsActive": true
+            "IsActive": true,
+            "Description": "One-time implementation and setup fee",
+            "Family": "Services"
         },
         {
             "attributes": {
@@ -45,7 +51,9 @@
             },
             "Name": "Region Surcharge (APAC)",
             "ProductCode": "REG-FEE",
-            "IsActive": true
+            "IsActive": true,
+            "Description": "Additional fee for APAC region support",
+            "Family": "Services"
         }
     ]
 }

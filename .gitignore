@@ -59,3 +59,7 @@ dist/
 # Salesforce
 .sfdx/
 .localdevserver/
+.sfdx/
+.sf/
+**/profiles/
+.DS_Store
